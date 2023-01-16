@@ -259,7 +259,7 @@ Select the certificate for HTTPS
 
 - Lets check our application using our DNS. We can securely connect to our application!
 
-![](images/vprofileapp-https.png)  
+![](https://user-images.githubusercontent.com/102400492/212622365-27b85d64-5c35-4cce-a10c-581f73d1b2e2.jpg)
 
 ### Step-10: Configure AutoScaling Group for Application Instances
 
@@ -294,3 +294,11 @@ Target Tracking-CPU Utilization 50
 ### Step-11: Clean-up
 
 - Delete all resources we created to avoid any charges from AWS.
+
+
+
+
+
+
+
+
