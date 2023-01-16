@@ -269,7 +269,7 @@ Security policy: TLSv1
 ``` 
 - Now we can check our application from browser.
 
-![](https://user-images.githubusercontent.com/102400492/212629387-b8677600-f222-4ec9-bc9b-b39e2b812289.png)
+![app-distributed-from-cdn](https://user-images.githubusercontent.com/102400492/212629982-ddb77a7e-12c7-4c60-a3a9-1c016a3a3f25.png)
 
 ### Step-9: Clean-up
 
